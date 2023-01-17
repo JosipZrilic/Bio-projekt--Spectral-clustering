@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a525e1fa-0144-4b67-a841-3c0130a5112c" name="Changes" comment="">
+    <list default="true" id="a525e1fa-0144-4b67-a841-3c0130a5112c" name="Changes" comment="levenshtein">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/zr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zr.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/load_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/load_data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,5 +41,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="levenshtein" />
+    <option name="LAST_COMMIT_MESSAGE" value="levenshtein" />
   </component>
 </project>
