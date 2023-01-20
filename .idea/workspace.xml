@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a525e1fa-0144-4b67-a841-3c0130a5112c" name="Changes" comment="levenshtein">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/load_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/load_data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

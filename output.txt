@@ -1,0 +1,4 @@
+>1
+ACDEFGHIJKLM
+>2
+-----GHIJKM-
